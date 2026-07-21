@@ -1,0 +1,14 @@
+# Executables
+server
+server.exe
+*.exe
+*.out
+
+# Environment variables
+.env
+*.env
+
+# OS / Editor files
+.DS_Store
+.vscode/
+.idea/
