@@ -1,4 +1,4 @@
-module github.com/Vardhan0504/go-task-queue
+module github.com/Vardhan0504/GO-TASK-QUEUE
 
 go 1.24
 

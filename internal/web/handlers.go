@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/Vardhan0504/go-task-queue/internal/queue"
+	"github.com/Vardhan0504/GO-TASK-QUEUE/internal/queue"
 )
 
 type Server struct {

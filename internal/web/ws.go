@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"sync"
 
-	"github.com/Vardhan0504/go-task-queue/internal/queue"
+	"github.com/Vardhan0504/GO-TASK-QUEUE/internal/queue"
 	"github.com/gorilla/websocket"
 )
 
